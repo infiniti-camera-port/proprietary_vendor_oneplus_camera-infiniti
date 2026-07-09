@@ -43,7 +43,6 @@ PRODUCT_COPY_FILES += \
     proprietary/vendor/oneplus/camera-infiniti/proprietary/odm/etc/camera/media_profiles.xml:$(TARGET_COPY_OUT_ODM)/etc/camera/media_profiles.xml \
     proprietary/vendor/oneplus/camera-infiniti/proprietary/odm/etc/camera/oplus_eis_camera.vcfg:$(TARGET_COPY_OUT_ODM)/etc/camera/oplus_eis_camera.vcfg \
     proprietary/vendor/oneplus/camera-infiniti/proprietary/odm/etc/camera/vainr_cfg.json:$(TARGET_COPY_OUT_ODM)/etc/camera/vainr_cfg.json \
-    proprietary/vendor/oneplus/camera-infiniti/proprietary/odm/etc/init/init.camera_process.rc:$(TARGET_COPY_OUT_ODM)/etc/init/init.camera_process.rc \
     proprietary/vendor/oneplus/camera-infiniti/proprietary/odm/lib64/camera/AIAWB_q.odnn:$(TARGET_COPY_OUT_ODM)/lib64/camera/AIAWB_q.odnn \
     proprietary/vendor/oneplus/camera-infiniti/proprietary/odm/lib64/camera/awb_parameter_infinitifront.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/awb_parameter_infinitifront.bin \
     proprietary/vendor/oneplus/camera-infiniti/proprietary/odm/lib64/camera/awb_parameter_infinitimain.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/awb_parameter_infinitimain.bin \
